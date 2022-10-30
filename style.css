@@ -13,6 +13,24 @@
     font-size: 20px;
     font-size: larger;
     font-weight: bolder;
+    font-style: italic;
+  }
+
+  .bottom-text {
+    background-color: #333;
+    overflow: hidden;
+  }
+
+  .bottom-text a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: italic;
   }
 
 
